@@ -1,3 +1,5 @@
+For Anno 117,  this updates the importing to work with Blender 5.2 LTS (currently available on STEAM)
+
 # Blender-Anno1800-.cfg-Import/Export-Addon
 Allows you to import from Anno (1800) .cfg files, make changes and export it to .cfg again.
 Automatically positions all models, props, particles, decals, subfiles, ifo-blockers, and cf7 blockers in the scene.
